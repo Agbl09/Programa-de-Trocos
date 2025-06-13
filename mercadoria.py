@@ -21,7 +21,7 @@ elif valor_pago > valor_mercadoria:
 
         if quantidade > 0:
             if moeda_nota >= 2:
-                print(f"\n{int(quantidade)} Nota(s) de R${moeda_nota}")
+                print(f"{int(quantidade)} Nota(s) de R${moeda_nota}")
             
             else:
                 print(f"{int(quantidade)} Moeda(s) de R${moeda_nota}")
