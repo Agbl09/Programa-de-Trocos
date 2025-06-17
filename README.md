@@ -9,6 +9,6 @@ Um programa que simula uma compra com trocos, informando as notas/moedas usadas 
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/bf9c695d-c168-4609-ab92-4b5925f949af)
+![image](https://github.com/user-attachments/assets/8863caea-7d82-46a8-98cd-73bc14cc388e)
 
 </div>
