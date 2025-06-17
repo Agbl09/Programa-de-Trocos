@@ -7,13 +7,6 @@ Um programa que simula uma compra com trocos, informando as notas/moedas usadas 
   <h2>🛒 Exemplo</h2>
 </div>
 
-- Entrada: Valor<br>
-- Entrada: Valor Pago<br>
-
-- Saída: Troco(Se tiver)<br>
-- Saída: Moedas ou Notas que compõem o troco<br>
-- Saída: Valor que resta para pagar<br>
-
 <div align="center">
 
 ![image](https://github.com/user-attachments/assets/bf9c695d-c168-4609-ab92-4b5925f949af)
